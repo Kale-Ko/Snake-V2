@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e0ac4c41cfd4f24a80bef42aed77f83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - snakePrefab: {fileID: 2370278417117158813, guid: df7a86c1929c5c6429e23445180cd63b, type: 3}
+  - foodPrefab: {fileID: 646542007483679276, guid: a13c7f3723415034b9cbb3020c4ea708, type: 3}
+  - pauseMenuPrefab: {fileID: 3453159143615151209, guid: 0ade0e7fe907ec547b8bf75b96f37eaf, type: 3}
+  - gameOverPrefab: {fileID: 3453159143615151209, guid: c64e54f8b104e184985b299d20ee8509, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
