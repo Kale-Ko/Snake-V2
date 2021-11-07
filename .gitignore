@@ -1,0 +1,15 @@
+node_modules
+package-lock.json
+
+build
+out
+target
+
+Temp
+Logs
+Library
+
+.vscode
+.classpath
+.project
+.settings
